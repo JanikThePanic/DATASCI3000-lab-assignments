@@ -1,3 +1,5 @@
+creditcard.csv
+
 *.bundle.*
 lib/
 node_modules/
